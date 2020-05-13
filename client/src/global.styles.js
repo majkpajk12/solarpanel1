@@ -16,4 +16,10 @@ body {
 	* {
 		box-sizing: border-box;
 	}
+
+	ShopPage {
+		font-family: 'Open Sans Condensed', sans-serif;
+		padding: 220px 0 0 0;
+
+		}
 `;
